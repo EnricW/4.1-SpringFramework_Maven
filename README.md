@@ -14,7 +14,7 @@ This project demonstrates a basic Spring Boot REST API implementation with Maven
 
 ## Configuration
 
-### Maven Dependencies
+### Dependencies
 
 - Spring Boot DevTools
 - Spring Web
